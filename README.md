@@ -9,7 +9,7 @@ Este projeto apresenta uma visualização animada do processo de otimização de
 Assista à animação que ilustra o processo de otimização da Log Loss:
 
 <p align="center">
-  <img src="media/log_loss_optimization.gif" alt="Animação da Otimização da Log Loss" width="600"/>
+  <img src="media/log_loss_optimization.gif" alt="Animação da Otimização da Log Loss" width="700"/>
 </p>
 
 ## Objetivo
